@@ -3,4 +3,10 @@ cursor_positions:
   - :path: config/routes.rb
     :cursor_offset: 0
     :timestamp: 2012-05-11 17:39:56.815000 -07:00
+  - :path: app/controllers/welcome_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-05-11 17:39:56.810000 -07:00
+  - :path: app/views/welcome/index.html.erb
+    :cursor_offset: 48
+    :timestamp: 2012-05-11 17:44:16.501000 -07:00
 files_to_retain: 0
