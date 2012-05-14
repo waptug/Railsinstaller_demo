@@ -9,4 +9,10 @@ cursor_positions:
   - :path: app/views/welcome/index.html.erb
     :cursor_offset: 48
     :timestamp: 2012-05-11 17:44:16.501000 -07:00
+  - :path: Gemfile.lock
+    :cursor_offset: 2361
+    :timestamp: 2012-05-13 15:06:26.725000 -07:00
+  - :path: Gemfile
+    :cursor_offset: 278
+    :timestamp: 2012-05-13 15:01:12.143000 -07:00
 files_to_retain: 0
